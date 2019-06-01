@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Caballo</title>
+	</head>
+	<body>
+	<img scr="caballo_en_la_pradera.jpg"
+	alt="Caballo en la pradera"
+	sizes="min-width: 800px, 50vw">
+	</body>
+</html>
