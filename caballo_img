@@ -5,8 +5,7 @@
 		<title>Caballo</title>
 	</head>
 	<body>
-	<img scr="caballo_en_la_pradera.jpg"
-	alt="Caballo en la pradera"
-	sizes="min-width: 800px, 50vw">
+	<p><img scr= "https://ecuestre.es/media/cache/big/upload/images/article/147466/article-principales-lesiones-articulares-de-los-caballos-5a42da76e4f40.jpg"
+	alt="Caballo en la pradera"></p>
 	</body>
 </html>
